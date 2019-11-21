@@ -16,6 +16,4 @@ Source: [Tudmotu | gnome-shell-extension-clipboard-indicator
 
  ```sh
 git clone  https://github.com/uconf/gnome-shell-clipboard-indicator.git ~/.local/share/gnome-shell/extensions/clipboard-indicator@uconf.com
-cd adapta-bluegrey
-./install.sh
 ```
